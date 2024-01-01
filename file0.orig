@@ -1,0 +1,12 @@
+class main
+{
+  public static void main(string [] args)
+  {
+<<<<<<< HEAD
+   System.out.println("hi how do you");
+=======
+   System.out.println("hi going to school")
+>>>>>>> 7e5c6f05d6173ee9d2330d8d56aed67d55ecdfa9
+   }
+  
+}
